@@ -11,7 +11,7 @@ Esse repositório foi criado para prática e entrega do exercício no curso.
 </ul>
 
 <h3>Orientações do exercício</h3>
-Crie um novo repositório no GitHub chamado hello-world. Na sua máquina, abra o terminal e navegue até a pasta que você criou durante as aulas.
+<p text-align= justify>Crie um novo repositório no GitHub chamado hello-world. Na sua máquina, abra o terminal e navegue até a pasta que você criou durante as aulas.
 Clone esse repositório na sua máquina, na pasta que você escolheu para organizar seus estudos.
 Crie um arquivo .js chamado hello-world.js que imprima na tela a mensagem “Hello World”.
 Execute esse arquivo através do terminal, utilizando o node.
@@ -20,7 +20,8 @@ Dê push nesse commit e veja se essas alterações apareceram no seu GitHub.
 Se aparecer, parabéns! Já pode mostrar para sua mãe o seu BELO GitHub.
 Compartilhe o link do seu GitHub com seus colegas e com a gente enviando o link no canal #GitHub do Discord!
 EXTRA: Modificar o arquivo README.md para explicar do que se trata esse repositório
-
+</p>
+<br>
 :hammer:TOOLS
 <ul>
 <li>JavaScrpit</li>
@@ -30,4 +31,5 @@ EXTRA: Modificar o arquivo README.md para explicar do que se trata esse reposit�
 
 <h3>Find Me:</h3>
 https://github.com/camilamariaoliveira
+<br>
 https://www.linkedin.com/in/camilamariaoliveira/
